@@ -1,5 +1,5 @@
-<h3 title="README.md"> Hey 👋, I'm Abhiraj!</h3>
-
+### Hey 👋, I'm Abhiraj!</h3>
+----
 <a href="https://www.linkedin.com/in/abhiraj-shourya-1b2427162/">
   <img align="left" alt="Abhiraj's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> <a href="https://www.instagram.com/abhirajshourya/">
