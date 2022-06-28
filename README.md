@@ -16,7 +16,7 @@ A ***Tech Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a CSE Undergrad student at DYP, SPPU
+- 👨🏽‍💻 Computer Engineer, Bachelor of Engineering
 - 🌱 I’m currently exploring ***Data Analytics*** and ***AI-ML***.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [abhirajshourya@gmail.com](mailto:abhirajshourya@gmail.com).
