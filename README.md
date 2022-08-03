@@ -35,18 +35,22 @@
 
 **Tools:**
 
+<div>
 <img align="left" width="28px" src="icons/tensorflow.svg" />
 <img align="left" width="28px" src="icons/mysql.svg" />
 <img align="left" width="28px" height="28px" src="icons/mongodb-icon.svg" />
 <img align="left" width="44px" height="30px" src="icons/sqlite.svg" />
+</div>
 
 <br>
 <br>
 
+<div>
 <img align="left" width="28px" src="icons/nodejs-icon.svg" />
 <img align="left" width="28px" src="icons/react.svg" />
 <img align="left" width="28px" src="icons/redux.svg" />
 <img align="left" width="28px" src="icons/bootstrap.svg" />
+</div>
 
 <br>
 <br>
