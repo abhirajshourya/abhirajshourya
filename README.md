@@ -13,17 +13,22 @@
 <br>
 
 **Languages:**
-
+<div>
 <img align="left" width="28px" src="icons/python.svg" />
 <img align="left" width="32px" src="icons/cplusplus-original.svg" />
 <img align="left" width="28px" src="icons/javascript.svg" />
 <img align="left" width="28px" height="30px" src="icons/java.svg" />
+</div>
+
 <br>
 <br>
-<img align="left" width="28px" height="32px" src="icons/css-3.svg" />
-<img align="left" width="28px" height="32px" src="icons/html-5.svg" />
+
+<div>
 <img align="left" width="28px" src="icons/c.svg" />
 <img align="left" width="28px" src="icons/c-sharp.svg" />
+<img align="left" width="28px" height="32px" src="icons/html-5.svg" />
+<img align="left" width="28px" height="32px" src="icons/css-3.svg" />
+</div>
 
 <br>
 <br>
@@ -34,14 +39,18 @@
 <img align="left" width="28px" src="icons/mysql.svg" />
 <img align="left" width="28px" height="28px" src="icons/mongodb-icon.svg" />
 <img align="left" width="44px" height="30px" src="icons/sqlite.svg" />
-<br>
-<br>
-<img align="left" width="28px" src="icons/nodejs-icon.svg" />
-<img align="left" width="28px" src="icons/react.svg" />
-<img align="left" width="28px" src="icons/bootstrap.svg" />
-<img align="left" width="28px" src="icons/microsoft-office-excel.svg" />
 
 <br>
 <br>
+
+<img align="left" width="28px" src="icons/nodejs-icon.svg" />
+<img align="left" width="28px" src="icons/react.svg" />
+<img align="left" width="28px" src="icons/redux.svg" />
+<img align="left" width="28px" src="icons/bootstrap.svg" />
+
+<br>
+<br>
+
+**Stats:**
 
 [![Abhiraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhirajshourya&count_private=true&hide=issues,prs&theme=tokyonight)]()
