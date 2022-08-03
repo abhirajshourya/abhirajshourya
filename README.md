@@ -13,47 +13,60 @@
 <br>
 
 **Languages:**
+
 <div>
 <img align="left" width="28px" src="icons/python.svg" />
-<img align="left" width="32px" src="icons/cplusplus-original.svg" />
 <img align="left" width="28px" src="icons/javascript.svg" />
 <img align="left" width="28px" height="30px" src="icons/java.svg" />
+<img align="left" width="32px" src="icons/cplusplus-original.svg" />
 </div>
 
 <br>
 <br>
 
 <div>
-<img align="left" width="28px" src="icons/c.svg" />
-<img align="left" width="28px" src="icons/c-sharp.svg" />
 <img align="left" width="28px" height="32px" src="icons/html-5.svg" />
 <img align="left" width="28px" height="32px" src="icons/css-3.svg" />
+<img align="left" width="28px" src="icons/c.svg" />
+<img align="left" width="28px" src="icons/c-sharp.svg" />
 </div>
 
 <br>
 <br>
+
 
 **Tools:**
-
-<div>
-<img align="left" width="28px" src="icons/tensorflow.svg" />
-<img align="left" width="28px" src="icons/mysql.svg" />
-<img align="left" width="28px" height="28px" src="icons/mongodb-icon.svg" />
-<img align="left" width="44px" height="30px" src="icons/sqlite.svg" />
-</div>
-
-<br>
-<br>
 
 <div>
 <img align="left" width="28px" src="icons/nodejs-icon.svg" />
 <img align="left" width="28px" src="icons/react.svg" />
 <img align="left" width="28px" src="icons/redux.svg" />
-<img align="left" width="28px" src="icons/bootstrap.svg" />
+<img align="left" width="28px"  src="icons/bash.svg" />
 </div>
 
 <br>
 <br>
+
+<div>
+<img align="left" width="28px" height="28px" src="icons/firebase.svg" />
+<img align="left" width="28px" height="28px" src="icons/mysql.svg" />
+<img align="left" width="28px" height="28px" src="icons/mongodb-icon.svg" />
+<img align="left" width="50px" height="28px" src="icons/sqlite.svg" />
+</div>
+
+<br>
+<br>
+
+<div>
+<img align="left" width="28px" height="28px" src="icons/aws.svg" />
+<img align="left" width="28px" height="28px" src="icons/jupyter.svg" />
+<img align="left" width="28px" height="28px" src="icons/tensorflow.svg" />
+<img align="left" width="28px" height="28px" src="icons/kibana.svg" />
+</div>
+
+<br>
+<br>
+
 
 **Stats:**
 
